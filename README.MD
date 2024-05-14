@@ -19,4 +19,3 @@ ruby tsp_solver.rb
 
 ## Format Masukkan File txt
 1. Pilih test case yang tersedia yaitu 1, 2, 3# Challenge_13520137
-# Challenge_13520137
