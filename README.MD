@@ -1,6 +1,7 @@
 # Challenge Solving TSP by Dynamic Programming in Ruby
 
 ## The idea is pretty simple using bitmask to iterate the graph while get the minimum value of current sum value of the path.
+### For more detail, you can see: https://codeforces.com/blog/entry/81516
 
 # AUTHOR
 - NAMA  : Muhammad Gilang Ramadhan 
@@ -18,4 +19,4 @@ ruby tsp_solver.rb
 ```
 
 ## Format Masukkan File txt
-1. Pilih test case yang tersedia yaitu 1, 2, 3# Challenge_13520137
+1. Pilih test case yang tersedia yaitu 1, 2, 3
